@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi 👋, I'm Kang Barama</h1>
 <h3 align="center">A student who is just starting out in web development</h3>
-<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangbarama&label=Profile%20views&color=0e75b6&style=flat" alt="kangbarama" /> </p>
 

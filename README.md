@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Is Kang Barama</h1>
+<h1 align="center">Hi 👋, I'm Kang Barama</h1>
 <h3 align="center">A student who is just starting out in web development</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/766aa7d4f671192f9b19af6c7aee3d7986f70acb12dc770b263f364c34192834/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966">
 
